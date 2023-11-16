@@ -6,10 +6,10 @@ app.secret_key = "manbearpig_MUDMAN888"
 
 # MySQL Configuration
 db_config = {
-    'host': 'x71wqc4m22j8e3ql.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-    'user': 'of0zxxndddv53clf',
-    'password': 'rhyfmihnp62cmw1x',
-    'database': 'e5wmoflyt8aawue7'
+    'host': 'y5svr1t2r5xudqeq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    'user': ''xkwo0puwn8wpp11p',
+    'password': 'mfbjl6adjf3btrxg',
+    'database': 'lxm14898h1ry2khd'
 }
 
 # Function to Connect to MySQL
