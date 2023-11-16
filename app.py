@@ -8,7 +8,7 @@ app.secret_key = "manbearpig_MUDMAN888"
 db_config = {
     'host': 'y5svr1t2r5xudqeq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
     'user': ''xkwo0puwn8wpp11p',
-    'password': 'mfbjl6adjf3btrxg',
+    'password': 'iacxea8i0tdesdgg',
     'database': 'lxm14898h1ry2khd'
 }
 
