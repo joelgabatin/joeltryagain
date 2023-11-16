@@ -29,7 +29,7 @@ def greeter():
     cursor = conn.cursor()
 
     # Fetching name from tbl_users
-    select_query = "SELECT name FROM tbl_users"
+    select_query = "SELECT full_name FROM tbl_farmer_users"
     cursor.execute(select_query)
     result = cursor.fetchone()  # Fetches the first row
 
